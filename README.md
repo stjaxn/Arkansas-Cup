@@ -1,2 +1,0 @@
-# ArkansasCup
- Arkansas Cup Website
